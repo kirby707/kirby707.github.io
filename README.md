@@ -1,2 +1,2 @@
 # kirby707.github.io
-This is a test for a nice homepage for my repository.
+Test for a homepage for my repository.
